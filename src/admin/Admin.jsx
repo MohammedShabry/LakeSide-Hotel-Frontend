@@ -14,6 +14,7 @@ const Admin = () => {
             Manage Bookings
         </Link>
     </section>
+    
   )
 }
 
